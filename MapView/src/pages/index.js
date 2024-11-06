@@ -6,25 +6,30 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import HomepageTeam from '../components/HomepageTeam';
+import HomepageTec from '../components/HomepageTec';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
+<header className={clsx('hero hero--teste', styles.heroBanner)}>
+  <div className="container">
+    <div className="hero__title">
+      <img src="img/logo.svg" alt="MapView" className="hero__image" />
+    </div>
+    <p className="hero__subtitle">{siteConfig.tagline}</p>
+    <div className={styles.buttons}>
+      <div className="button-border">
+        <Link
+          className="button button--secondary button--lg"
+          to="/docs/intro"
+        >
+          Documentação
+        </Link>
       </div>
-    </header>
+    </div>
+  </div>
+</header>
   );
 }
 
@@ -37,6 +42,8 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <HomepageTec />
+        <HomepageTeam />
       </main>
     </Layout>
   );

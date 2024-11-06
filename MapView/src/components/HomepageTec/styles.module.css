@@ -1,0 +1,60 @@
+.gradientTitle {
+  background: linear-gradient(90deg, #5A35AC, #3C2D2D); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: inline-block;
+  font-size: 2rem; 
+  position: relative; 
+  z-index: 2; 
+  margin-bottom: 80px;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  width: 100%;
+  flex-wrap: wrap; 
+  margin-top: 40px;
+}
+
+.featureItem {
+  margin-bottom: 40px; 
+}
+
+.featureSvg {
+  height: 100px;
+  width: 100px;
+  position: relative; 
+  z-index: 1; 
+}
+
+.featureDescription {
+  font-weight: bold; 
+  font-size: 1rem; 
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.col {
+  width: 25%; 
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.col--3 {
+  width: 20%;  
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.featureItem {
+  margin-bottom: 35px; 
+}
+

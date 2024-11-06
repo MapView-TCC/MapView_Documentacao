@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
-  "position": 2,
+  "label": "🔎 Guia de uso",
+  "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Esta seção visa apresentar o passo a passo para utilização correta do sistema. "
   }
 }
