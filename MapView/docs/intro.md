@@ -9,5 +9,4 @@ Esse documento foi criado para registro e organização do projeto Mapview, esta
 
 Nessa página você encontrará uma visão detalhada do projeto, seus objetivos, metodologias e próximos passos necessários!
 
-<!-- ![Logo Mapview](../static/img/Mapview.png) -->
 

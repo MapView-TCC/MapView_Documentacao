@@ -2,33 +2,20 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+# Navegação e Pesquisa🔎
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+**Navegação**
 
-## Create your first Post
+Para navegar na plataforma, utilize o cabeçalho disponível em todas as telas. Nele, você encontrará uma área de navegação com quatro links principais:
 
-Create a file at `blog/2021-02-28-greetings.md`:
+🔗 Ambientes
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+🔗 Cadastro 
 
-Congratulations, you have made your first post!
+🔗 Histórico  
 
-Feel free to play around and edit this post as much as you like.
-```
+🔗 Inventário
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+**Pesquisa**
+
+O cabeçalho também inclui uma barra de pesquisa, onde você pode buscar por um notebook específico usando termos-chave, como o nome do equipamento. À medida que você digita, a barra de pesquisa oferece opções disponíveis para selecionar. Ao clicar em uma dessas opções, um pop-up com as informações detalhadas do notebook será exibido.

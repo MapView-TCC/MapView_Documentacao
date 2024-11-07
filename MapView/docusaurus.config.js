@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'MapView',
   tagline: 'Sistema de gerenciamento e monitoramento de notebooks.',
-  favicon: 'img/LOGO.ico',
+  favicon: 'img/M.svg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',

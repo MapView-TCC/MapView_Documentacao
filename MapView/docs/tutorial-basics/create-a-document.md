@@ -2,56 +2,15 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Vizualizar notebooks 💻
 
-Documents are **groups of pages** connected through:
+Ao acessar a tela de "Ambientes", você verá uma representação 3D dos Laboratórios de Soluções Digitais do BTC.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+Dentro dessa visualização, marcadores vermelhos indicam os postos de trabalho onde os notebooks devem estar localizados. Ao passar o mouse sobre um marcador no mapa, o sistema exibirá informações sobre o equipamento. Atualmente, apenas o "Laboratório 4 e 5" permite interação com o mapa, possibilitando a visualização detalhada dos dados correspondentes.
 
-## Create your first Doc
+# Como visualizar os notebooks que estão no local errado 
 
-Create a Markdown file at `docs/hello.md`:
+A tela de "Ambientes" apresenta um botão "Ver Detalhes" na parte superior do mapa selecionado sempre que houver um notebook que não pertence àquele local. Para verificar quais equipamentos não deveriam estar ali, basta clicar nesse botão, e o sistema exibirá os notebooks presentes no ambiente, junto com suas respectivas informações.
 
-```md title="docs/hello.md"
-# Hello
 
-This is my **first Docusaurus document**!
-```
 
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```

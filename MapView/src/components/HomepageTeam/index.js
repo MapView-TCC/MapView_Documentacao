@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const TeamList = [
   {
-    Png: require('@site/static/img/testeaqui.png').default, // Usando PNG
+    Png: require('@site/static/img/Ana.png').default, 
     description: (
       <>
         <h3>Ana Sutéro</h3>
@@ -13,7 +13,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/testeaqui.png').default, // Usando PNG
+    Png: require('@site/static/img/Maria_normal.png').default, 
     description: (
       <>
         <h3>Bruna Nunes</h3>
@@ -22,7 +22,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/testeaqui.png').default, // Usando PNG
+    Png: require('@site/static/img/Maria_normal.png').default, 
     description: (
       <>
         <h3>Maria Ferreira</h3>
@@ -31,7 +31,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/testeaqui.png').default, // Usando PNG
+    Png: require('@site/static/img/Joao.png').default, 
     description: (
       <>
         <h3>João Borges</h3>
@@ -40,7 +40,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/testeaqui.png').default, // Usando PNG
+    Png: require('@site/static/img/Maria_normal.png').default, 
     description: (
       <>
         <h3>Sarah Santos</h3>
@@ -49,7 +49,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/testeaqui.png').default, // Usando PNG
+    Png: require('@site/static/img/Maria_normal.png').default, 
     description: (
       <>
         <h3>Sarah Cruz</h3>
@@ -58,7 +58,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/testeaqui.png').default, // Usando PNG
+    Png: require('@site/static/img/Thayna.png').default, 
     description: (
       <>
         <h3>Thayná Quinteiro</h3>

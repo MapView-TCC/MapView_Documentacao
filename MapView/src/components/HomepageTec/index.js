@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const TecList = [
   {
-    Png: require('@site/static/img/figma.png').default, // Usando PNG
+    Png: require('@site/static/img/figma.png').default, 
     description: (
       <>
         <strong>Figma</strong>
@@ -12,43 +12,43 @@ const TecList = [
     ),
   },
   {
-    Png: require('@site/static/img/spline.png').default, // Usando PNG
+    Png: require('@site/static/img/spline.png').default,
     description: (
       <>Spline</>
     ),
   },
   {
-    Png: require('@site/static/img/Three.js (2).png').default, // Usando PNG
+    Png: require('@site/static/img/Three.js.png').default, 
     description: (
       <>Three.js</>
     ),
   },
   {
-    Png: require('@site/static/img/angular (2).png').default, // Usando PNG
+    Png: require('@site/static/img/Angular.png').default, 
     description: (
       <>Angular</>
     ),
   },
   {
-    Png: require('@site/static/img/sql.png').default, // Usando PNG
+    Png: require('@site/static/img/sql.png').default,
     description: (
       <>MySQL</>
     ),
   },
   {
-    Png: require('@site/static/img/SSO (2).png').default, // Usando PNG
+    Png: require('@site/static/img/SSO.png').default, 
     description: (
       <>Single sign-on</>
     ),
   },
   {
-    Png: require('@site/static/img/Spring (2).png').default, // Usando PNG
+    Png: require('@site/static/img/Spring.png').default,
     description: (
       <>Spring Boot</>
     ),
   },
   {
-    Png: require('@site/static/img/Docker (2).png').default, // Usando PNG
+    Png: require('@site/static/img/Docker.png').default, 
     description: (
       <>Docker</>
     ),
