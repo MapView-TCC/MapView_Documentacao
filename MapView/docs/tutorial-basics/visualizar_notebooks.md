@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Vizualizar notebooks 💻
+# Visualizar notebooks 
 
-Ao acessar a tela de "Ambientes", você verá uma representação 3D dos Laboratórios de Soluções Digitais do BTC.
+💻 Ao acessar a tela de "Ambientes", você verá uma representação 3D dos Laboratórios de Soluções Digitais do BTC.
 
 Dentro dessa visualização, marcadores vermelhos indicam os postos de trabalho onde os notebooks devem estar localizados. Ao passar o mouse sobre um marcador no mapa, o sistema exibirá informações sobre o equipamento. Atualmente, apenas o "Laboratório 4 e 5" permite interação com o mapa, possibilitando a visualização detalhada dos dados correspondentes.
 
