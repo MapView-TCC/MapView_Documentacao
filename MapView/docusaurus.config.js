@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MapView',
-  tagline: 'Sistema de gerenciamento e monitoramento de notebooks.',
+  tagline: 'Gerenciamento e monitoramento de notebooks.',
   favicon: 'img/M.svg',
 
   // Set the production url of your site here

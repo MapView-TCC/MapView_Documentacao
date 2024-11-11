@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/MapView.svg').default,
     description: (
       <>
-        Monitore seus equipamentos através de tecnologia RFID
+        Cadastre e armazene todas as informações em uma só plataforma.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/RFID.svg').default,
     description: (
       <>
-        Facilite gerenciamento dos notebooks utilizando ambientação 3D.
+       Monitore seus equipamentos através de tecnologia RFID
       </>
     ),
   },
