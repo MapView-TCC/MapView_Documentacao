@@ -27,7 +27,7 @@
   display: inline-block;
   border-radius: 100%;
   object-fit: cover;
-  image-rendering: crisp-edges; /* Melhora a renderização da imagem */
+  image-rendering: high-quality; /* Melhora a renderização da imagem */
 }
 
 
