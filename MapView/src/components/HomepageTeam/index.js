@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const TeamList = [
   {
-    Png: require('@site/static/img/Ana.png').default, 
+    Png: require('@site/static/img/ana.png').default, 
     description: (
       <>
         <h3>Ana Sutéro</h3>
@@ -13,7 +13,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/bruna.png').default, 
+    Png: require('@site/static/img/EDITbruna.png').default, 
     description: (
       <>
         <h3>Bruna Nunes</h3>
@@ -22,7 +22,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/maria.png').default, 
+    Png: require('@site/static/img/EDITmaria.png').default, 
     description: (
       <>
         <h3>Maria Ferreira</h3>
@@ -40,7 +40,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/sarah_santos.png').default, 
+    Png: require('@site/static/img/EDITsarah_santos.png').default, 
     description: (
       <>
         <h3>Sarah Santos</h3>
@@ -49,7 +49,7 @@ const TeamList = [
     ),
   },
   {
-    Png: require('@site/static/img/sarah_cruz.png').default, 
+    Png: require('@site/static/img/EDITsarah_cruz.png').default, 
     description: (
       <>
         <h3>Sarah Cruz</h3>

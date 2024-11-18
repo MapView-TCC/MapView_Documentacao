@@ -6,9 +6,7 @@ sidebar_position: 4
 
 🛠️ Nesta seção estão reúnidos os principais documentos do projeto, desde os requisitos até os testes finais. Esses materiais servem como referência para todos os envolvidos, garantindo que aspectos técnicos estejam bem documentados e alinhados com as necessidades do cliente.
 
-🔗**Documentação do Projeto**
 
-Descrição detalhada do escopo, objetivos e estrutura geral do projeto.
 
 🔗[**Documentação de Requisitos**](https://drive.google.com/file/d/1qbpCmdjba2MEzJWCW2UQ5LY_cEiMmqiT/view?usp=sharing) 
 
